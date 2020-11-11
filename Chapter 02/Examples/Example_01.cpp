@@ -12,3 +12,7 @@ int main(){
 	return 0;		// indicate that program ended successfully by returning 0
 	
 }	//	end of main function
+
+/* --------------------------------------------------------------*/
+
+// Expected output to be: Welcome to C++!
