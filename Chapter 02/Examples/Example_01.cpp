@@ -1,5 +1,7 @@
 // Name: Example_01.cpp
 // Description:First example in Chapter 02, C++ How to Program
+// Author: Mohamed Ashry
+/* --------------------------------------------------------------*/
 
 // enable the program to output data on the screen by including the Preprocessing Directive
 #include<iostream>		

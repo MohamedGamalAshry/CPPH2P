@@ -1,6 +1,8 @@
 // Name: Example_03.cpp
 // Description: Third example in Chapter 02, C++ How to Program
 // Printing multipile lines of text with single statement
+// Author: Mohamed Ashry
+
 /* --------------------------------------------------------------*/
 
 #include<iostream>	// enable the program to output data on the screen by including the Preprocessing Directive	
