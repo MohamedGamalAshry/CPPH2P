@@ -5,7 +5,7 @@
 
 /* --------------------------------------------------------------*/
 
-#include<iostream>	// enable the program to output data on the screen by including the Preprocessing Directive	
+#include <iostream>	// enable the program to output data on the screen by including the Preprocessing Directive	
 
 // Function main begins the program excution:
 

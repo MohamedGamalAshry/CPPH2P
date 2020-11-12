@@ -3,7 +3,7 @@
 // Author: Mohamed Ashry
 /* --------------------------------------------------------------*/
 
-#include<iostream>	// enable the program to output data on the screen by including the Preprocessing Directive	
+#include <iostream>	// enable the program to output data on the screen by including the Preprocessing Directive	
 
 using std::cout ;		// let the program uses cout directly
 using std::cin ;		// let the program uses cin directly
